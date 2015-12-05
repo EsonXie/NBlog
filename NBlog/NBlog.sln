@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBlog.DB", "NBlog.DB\NBlog.DB.csproj", "{CA0537C1-DAC1-42EB-9FBB-A8DC14BE0EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBlog.Web", "NBlog.Web\NBlog.Web.csproj", "{8A3F1251-A6ED-413C-8A78-5778211F9BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0537C1-DAC1-42EB-9FBB-A8DC14BE0EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0537C1-DAC1-42EB-9FBB-A8DC14BE0EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0537C1-DAC1-42EB-9FBB-A8DC14BE0EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0537C1-DAC1-42EB-9FBB-A8DC14BE0EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3F1251-A6ED-413C-8A78-5778211F9BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3F1251-A6ED-413C-8A78-5778211F9BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3F1251-A6ED-413C-8A78-5778211F9BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3F1251-A6ED-413C-8A78-5778211F9BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
